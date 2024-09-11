@@ -1,0 +1,2 @@
+api = 'yourapi'
+secret = 'yoursecretkey'
